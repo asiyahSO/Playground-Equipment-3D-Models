@@ -8,5 +8,3 @@
 
 ## Software Used
 - Blender
-
-## Screenshots
